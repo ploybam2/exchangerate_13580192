@@ -1,0 +1,55 @@
+.gbp {
+	background-image:url(../im/gbp.png);
+	width: 31px;
+    margin-right: 10px;
+    height: 24px;
+    float: left;
+    background-size: 29px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.eur {
+	background-image:url(../im/eur.png);
+	width: 31px;
+    margin-right: 10px;
+    height: 24px;
+    float: left;
+    background-size: 29px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.jyp {
+	background-image:url(../im/jyp.png);
+	width: 31px;
+    margin-right: 10px;
+    height: 24px;
+    float: left;
+    background-size: 29px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.krw {
+	background-image:url(../im/krw.png);
+	width: 31px;
+    margin-right: 10px;
+    height: 24px;
+    float: left;
+    background-size: 29px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.usd {
+	background-image: url(../im/usd.png);
+    width: 31px;
+    margin-right: 10px;
+    height: 24px;
+    float: left;
+    background-size: 29px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.btn{
+	margin-top: 20px;
+}
+
+
